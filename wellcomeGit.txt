@@ -1,0 +1,2 @@
+Hi. Wellcome to git!
+This is 2nd note.
